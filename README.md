@@ -5,7 +5,7 @@ It was important for me to develop an app in which I could come back anytime and
 
 ## Devolpoing process ##
 I created a RESTful API using Node Express and connected it to the MongoDB server. 
-The app uses an authentication process, saving and reading Json Token on and from the device. The passwords in MongoDB are Hashed using a hash generator. For more info visit the Track-server repository.
+The app uses an authentication process, saving and reading Json Web Token on and from the device. The passwords in MongoDB are Hashed using a hash generator. For more info visit the Track-server repository.
 Server development and testing were done using Postman and ngrok.
 
 ## Running Process ##
